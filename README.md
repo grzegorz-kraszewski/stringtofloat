@@ -3,7 +3,7 @@ Minimal dependency, easy to understand string to floating point number conversio
 
 ## Requirements
 * C compiler with unsigned 64-bit integer type and basic arithmetic on it (comparision, addition, subtraction, bit shifts).
-* <stdint.h> header file or its equivalent defining `int32_t`, `uint32_t`, `uint64_t` types.
+* &lt;stdint.h&gt; header file or its equivalent defining `int32_t`, `uint32_t`, `uint64_t` types.
 * It is assumed that `int` type is at least 16-bit wide.
 * Size of other types and system endianess are not important.
 * The C standard library is not required, unless a compiler needs it to provide the above features.
