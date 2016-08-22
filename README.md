@@ -1,5 +1,5 @@
 # stringtofloat
-No-dependency, easy to understand string to floating point number conversion.
+Minimal dependency, easy to understand string to floating point number conversion.
 
 ## Requirements
 * C compiler with unsigned 64-bit integer type and basic arithmetic on it (comparision, addition, subtraction, bit shifts).
