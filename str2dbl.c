@@ -1,5 +1,5 @@
 /*
-Copyright © 2011-2016, Grzegorz Kraszewski.
+Copyright Â© 2011-2016, Grzegorz Kraszewski.
 See LICENSE file.
 */
 
@@ -10,7 +10,7 @@ See LICENSE file.
 /* GCC standard library strtod(), which uses "round half to even" rule. */
 /* Therefore it cannot be used as a direct drop-in replacement, as in   */
 /* some cases results will be different on the least significant bit of */
-/* mantissa. Read more in the README.md file.                                */
+/* mantissa. Read more in the README.md file.                           */
 /*======================================================================*/
 
 
